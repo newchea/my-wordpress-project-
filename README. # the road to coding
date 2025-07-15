@@ -1,45 +1,15 @@
-<!--my- wordpress-project-->
-
-<!-- journey begin with git-->
-<section id="about my coding journey">
-  <h2>this project is about time and hardwork</h2>
-  <p>This project is built using github and customized to reflect my learning journey in web development.</p>
+<!-- How It All Started Section -->
+<section id="github-journey" style="padding: 40px; background-color: #f4f4f4; font-family: Arial, sans-serif;">
+  <h2 style="color: #333;">🌟 How It All Started with GitHub</h2>
+  <p style="color: #555; line-height: 1.6;">
+    My journey with GitHub began out of curiosity and a desire to understand how developers collaborate on real projects. 
+    At first, I didn’t know what a repository was or how commits worked. But I was determined to learn.
+  </p>
+  <p style="color: #555; line-height: 1.6;">
+    I started by creating my first repository, uploading an index.html file, and learning how to push changes using Git. 
+    Slowly, I began to understand how version control works and how powerful GitHub can be for sharing and improving code.
+  </p>
+  <p style="color: #555; line-height: 1.6;">
+    Today, GitHub is not just a tool — it's part of my daily learning. Whether I’m practicing HTML/CSS, building pages, or exploring new features, GitHub is helping me grow step by step.
+  </p>
 </section>
-
-<!-- New Contact Section -->
-<section id="contact">
-  <h2>Contact Me</h2>
-  <p>Email: macintoshchea9@gmail.com</p>
-</section>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Inside Chea World</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f7f7f7;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #553c9a;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    section {
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    h2 {
-      color: #553c9a;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background-color: #eee;
-      font-size: 0.9rem;09
